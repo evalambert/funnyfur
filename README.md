@@ -1,30 +1,41 @@
-# React + TypeScript + Vite
+# FUNNY FUR 🐩🦋🦜🪱🦢🐝
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Funny Fur est une plateforme de partage d'image dédié aux animaux de compagnie :-)
 
-Currently, two official plugins are available:
+## 🔗 LIEN PROJET
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[https://funnyfur.onrender.com/](https://funnyfur.onrender.com/)
 
-## Expanding the ESLint configuration
+## 🌐 LANGUAGE UTILISÉ
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- React
+- React router
+- Express
+- Axios
+- Tailwind
+- Node.js
 
-- Configure the top-level `parserOptions` property like this:
+## ÉQUIPE
+
+...
+
+## ⏰ ÉTAT D'AVANCEMENT
+
+En cours de création…
+
+## 👀 MAQUETTE DU PROJET
+
+![Screen shot version Desktop](src/assets/img/1.jpg)
+![Screen shot version Desktop](src/assets/img/2.jpg)
+
+## 💾 INSTALLATION
 
 ```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+cd server
+npm i
+npm run dev
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+cd client
+npm i
+npm run dev
+```
