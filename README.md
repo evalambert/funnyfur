@@ -1,9 +1,15 @@
-# FUNNY FUR 🐩🦋🦜🪱🦢🐝
+# FUNNY FUR 🐈🦋🦜🐕🪱🦢🐝
 
-Funny Fur est une plateforme de partage d'image dédié aux animaux de compagnie :-)
+Funny Fur est une plateforme de partage d'image dédié aux animaux de compagnie en tout genre :-)
+
+## ⏰ ÉTAT D'AVANCEMENT
+
+En cours de création…
+Pas de version desktop pour le moment.
 
 ## 🔗 LIEN PROJET
 
+Version mobile :
 [https://funnyfur.onrender.com/](https://funnyfur.onrender.com/)
 
 ## 🌐 LANGUAGE UTILISÉ
@@ -19,14 +25,13 @@ Funny Fur est une plateforme de partage d'image dédié aux animaux de compagnie
 
 ...
 
-## ⏰ ÉTAT D'AVANCEMENT
-
-En cours de création…
-
 ## 👀 MAQUETTE DU PROJET
 
-![Screen shot version Desktop](src/assets/img/1.jpg)
-![Screen shot version Desktop](src/assets/img/2.jpg)
+![Screen shot version mobile authentification](client/src/assets/images/maquette-1.jpg)
+![Screen shot version mobile feed](client/src/assets/images/maquette-2.jpg)
+![Screen shot version mobile commentaires](client/src/assets/images/maquette-3.jpg)
+![Screen shot version mobile page perso](client/src/assets/images/maquette-4.jpg)
+![Screen shot exemples images animaux](client/src/assets/images/maquette-5.jpg)
 
 ## 💾 INSTALLATION
 
